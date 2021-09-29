@@ -1,4 +1,4 @@
-<h1 align="center">RN-TourGuide</h1>
+<h1 align="center">react-native-tourguide</h1>
 
 <p align="center">
   A flexible <strong>tourguide</strong> for your react native app!
@@ -7,23 +7,18 @@
 </p>
 
 <p align="center">
-  <img width="250" src="https://www.dropbox.com/s/9heua3qgd66125k/rn-tourguide.gif?dl=0&raw=1" alt="RN Tourguide" />
-</p>
-<p align="center">
-    <a href="https://xcarpentier.github.io/rn-tourguide/">
-      🎉DEMO WEB 🎉
-    </a>
+  <img width="250" src="https://www.dropbox.com/s/9heua3qgd66125k/rn-tourguide.gif?dl=0&raw=1" alt="react-native-tourguide" />
 </p>
 
 <div align="center">
   <p align="center">
-    <a href="https://www.npmjs.com/package/rn-tourguide">
-      <img alt="npm downloads" src="https://img.shields.io/npm/dm/rn-tourguide.svg"/>
+    <a href="https://www.npmjs.com/package/react-native-tourguide">
+      <img alt="npm downloads" src="https://img.shields.io/npm/dm/react-native-tourguide"/>
     </a>
-    <a href="https://www.npmjs.com/package/rn-tourguide">
+    <a href="https://www.npmjs.com/package/react-native-tourguide">
       <img src="https://img.shields.io/npm/v/rn-tourguide.svg" alt="NPM Version" />
     </a>
-    <a href="http://reactnative.gallery/xcarpentier/rn-tourguide">
+    <a href="http://reactnative.gallery/xcarpentier/react-native-tourguide">
       <img src="https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg"/></a>
     </a>
     <a href="#hire-an-expert">
@@ -35,12 +30,11 @@
 ## Installation
 
 ```
-yarn add rn-tourguide
+yarn add react-native-tourguide
 ```
 
 ```
 yarn add react-native-svg
-react-native link react-native-svg
 ```
 
 If you are using Expo:
@@ -57,7 +51,7 @@ import {
   TourGuideZone, // Main wrapper of highlight component
   TourGuideZoneByPosition, // Component to use mask on overlay (ie, position absolute)
   useTourGuideController, // hook to start, etc.
-} from 'rn-tourguide'
+} from 'react-native-tourguide'
 
 // Add <TourGuideProvider/> at the root of you app!
 function App() {
