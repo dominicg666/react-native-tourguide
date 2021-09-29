@@ -6,9 +6,6 @@
   <br/><small>(a rewriting of react-native-copilot)</small>
 </p>
 
-<p align="center">
-  <img width="250" src="https://www.dropbox.com/s/9heua3qgd66125k/rn-tourguide.gif?dl=0&raw=1" alt="react-native-tourguide" />
-</p>
 
 <div align="center">
   <p align="center">
