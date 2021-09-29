@@ -317,11 +317,3 @@ List of available events is:
 
 Issues and Pull Requests are always welcome.
 
-## Hire an expert!
-
-Looking for a ReactNative freelance expert with more than 14 years experience? Contact me from my [website](https://xaviercarpentier.com)!
-
-## License
-
-- [MIT](LICENSE) © 2020 Xavier CARPENTIER SAS, https://xaviercarpentier.com.
-- [MIT](LICENSE) © 2017 OK GROW!, https://www.okgrow.com.
