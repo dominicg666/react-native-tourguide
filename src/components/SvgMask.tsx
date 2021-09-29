@@ -177,8 +177,8 @@ export class SvgMask extends Component<Props, State> {
     if (!this.state.canvasSize) {
       return null
     }
-    const { dismissOnPress, stop } = this.props
-    const Wrapper = dismissOnPress ? TouchableWithoutFeedback : View
+    const { dismissOnPress, stop }:any = this.props
+    const Wrapper:any = dismissOnPress ? TouchableWithoutFeedback : View
 
     return (
       <Wrapper
