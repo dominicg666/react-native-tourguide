@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/dominicg666/react-native-tourguide/static/js/app.e3521f90.chunk.js",
+    "app.js.map": "/dominicg666/react-native-tourguide/static/js/app.e3521f90.chunk.js.map",
+    "runtime~app.js": "/dominicg666/react-native-tourguide/static/js/runtime~app.161ce436.js",
+    "runtime~app.js.map": "/dominicg666/react-native-tourguide/static/js/runtime~app.161ce436.js.map",
+    "static/js/2.d3e0b1a0.chunk.js": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js",
+    "static/js/2.d3e0b1a0.chunk.js.map": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js.map",
+    "index.html": "/dominicg666/react-native-tourguide/index.html",
+    "manifest.json": "/dominicg666/react-native-tourguide/manifest.json",
+    "serve.json": "/dominicg666/react-native-tourguide/serve.json",
+    "static/js/2.d3e0b1a0.chunk.js.LICENSE.txt": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.161ce436.js",
+    "static/js/2.d3e0b1a0.chunk.js",
+    "static/js/app.e3521f90.chunk.js"
+  ]
+}
