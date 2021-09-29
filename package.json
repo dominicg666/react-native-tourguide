@@ -1,8 +1,8 @@
 {
   "name": "react-native-tourguide",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)",
-  "main": "lib/index.js",
+  "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
   "private": false,
   "scripts": {
@@ -89,5 +89,8 @@
   "resolutions": {
     "logkitty": "^0.7.1",
     "mem": "^4.0.0"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
