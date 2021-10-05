@@ -20,3 +20,22 @@ jobs:
       - run: npm test
         env:
           CI: true
+  publish:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - name: Publish
+        run: |
+          npm install
+          npm config set //registry.npmjs.org/:_authToken ${NPM_TOKEN}
+          npm run prepublishOnly
+          npm run publish --ignore-scripts
+          npm run deploy
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+

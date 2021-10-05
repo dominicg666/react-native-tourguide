@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "rn-tourguide",
-    "description": "rn-tourguide",
-    "slug": "rn-tourguide",
+    "name": "react-native-tourguide",
+    "description": "react-native-tourguide",
+    "slug": "react-native-tourguide",
     "privacy": "public",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",

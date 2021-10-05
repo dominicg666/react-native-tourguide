@@ -56,7 +56,7 @@ const AppContent = () => {
         borderRadius={16}
       >
         <Text style={styles.title}>
-          {'Welcome to the demo of\n"rn-tourguide"'}
+          {'Welcome to the demo of\n"react-native-tourguide"'}
         </Text>
       </TourGuideZone>
       <View style={styles.middleView}>
