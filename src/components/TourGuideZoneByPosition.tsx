@@ -64,6 +64,7 @@ export const TourGuideZoneByPosition = ({
           bottom,
           left,
         }}
+        
       />
     </View>
   )
