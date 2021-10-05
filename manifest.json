@@ -1,9 +1,9 @@
 {
-  "description": "rn-tourguide",
+  "description": "react-native-tourguide",
   "display": "standalone",
   "lang": "en",
-  "name": "rn-tourguide",
-  "short_name": "rn-tourguide",
+  "name": "react-native-tourguide",
+  "short_name": "react-native-tourguide",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }

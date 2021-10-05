@@ -1,19 +1,31 @@
 {
   "files": {
-    "app.js": "/dominicg666/react-native-tourguide/static/js/app.e3521f90.chunk.js",
-    "app.js.map": "/dominicg666/react-native-tourguide/static/js/app.e3521f90.chunk.js.map",
+    "app.js": "/dominicg666/react-native-tourguide/static/js/app.9e8c794a.chunk.js",
+    "app.js.map": "/dominicg666/react-native-tourguide/static/js/app.9e8c794a.chunk.js.map",
     "runtime~app.js": "/dominicg666/react-native-tourguide/static/js/runtime~app.161ce436.js",
     "runtime~app.js.map": "/dominicg666/react-native-tourguide/static/js/runtime~app.161ce436.js.map",
-    "static/js/2.d3e0b1a0.chunk.js": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js",
-    "static/js/2.d3e0b1a0.chunk.js.map": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js.map",
+    "static/js/2.815990de.chunk.js": "/dominicg666/react-native-tourguide/static/js/2.815990de.chunk.js",
+    "static/js/2.815990de.chunk.js.map": "/dominicg666/react-native-tourguide/static/js/2.815990de.chunk.js.map",
+    "fonts/AntDesign.ttf": "/dominicg666/react-native-tourguide/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/dominicg666/react-native-tourguide/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/dominicg666/react-native-tourguide/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/dominicg666/react-native-tourguide/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/dominicg666/react-native-tourguide/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/dominicg666/react-native-tourguide/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/dominicg666/react-native-tourguide/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/dominicg666/react-native-tourguide/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/dominicg666/react-native-tourguide/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/dominicg666/react-native-tourguide/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/dominicg666/react-native-tourguide/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/dominicg666/react-native-tourguide/./fonts/SimpleLineIcons.ttf",
     "index.html": "/dominicg666/react-native-tourguide/index.html",
     "manifest.json": "/dominicg666/react-native-tourguide/manifest.json",
     "serve.json": "/dominicg666/react-native-tourguide/serve.json",
-    "static/js/2.d3e0b1a0.chunk.js.LICENSE.txt": "/dominicg666/react-native-tourguide/static/js/2.d3e0b1a0.chunk.js.LICENSE.txt"
+    "static/js/2.815990de.chunk.js.LICENSE.txt": "/dominicg666/react-native-tourguide/static/js/2.815990de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.161ce436.js",
-    "static/js/2.d3e0b1a0.chunk.js",
-    "static/js/app.e3521f90.chunk.js"
+    "static/js/2.815990de.chunk.js",
+    "static/js/app.9e8c794a.chunk.js"
   ]
 }
