@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     alignItems: 'center',
     paddingHorizontal: 40,
-  },
+  }, 
 })
 
 export default App
